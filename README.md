@@ -1,8 +1,6 @@
 # Network-overhead-in-microservices-architecture
 This work aim to give you all the information about the latency in a microservice architecture. You can use this information to configure your own Circuit breaker such as "Hystrix" https://github.com/Netflix/Hystrix/wiki.
 
-===================
-
 # Orizzontal architecture 
 The first scenario involves a simple architecture, composed by well-isolated micro-services which have fully satisfied the independence principle. This kind of scenario is called “horizontal (or mono-level) architecture”. Let’s imagine a simple e-commerce with the possibility of visualizing the items, of checking an order shipping status and of setting the default details for the user, so that it is possible to memorize one’s favourite shipping addresses or methods of payment.
 The three micro-services do not have the necessity of communicating within themselves but still the inquiry of one of them involves the one itself, the edge-service and, in case, the service-registry.
