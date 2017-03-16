@@ -1,8 +1,12 @@
 # Network-overhead-in-microservices-architecture
 This work aim to give you all the information about the latency in a microservice architecture. You can use this information to configure your own Circuit breaker such as "Hystrix" https://github.com/Netflix/Hystrix/wiki.
 
+![vertical-architecture_6-7](https://github.com/Marcuccio/Network-overhead-in-microservices-architecture/blob/master/img/orizzontal-architecture.jpg)
 
 ![orizzontal-architecture](https://github.com/Marcuccio/Network-overhead-in-microservices-architecture/blob/master/img/plotbot_architectures.JPG)
+
+
+![vertical-architecture_2-3](https://github.com/Marcuccio/Network-overhead-in-microservices-architecture/blob/master/img/vertical-architecture.jpg)
 
 ![vertical-architecture_2-3](https://github.com/Marcuccio/Network-overhead-in-microservices-architecture/blob/master/img/plotbox_2-3.JPG)
 
